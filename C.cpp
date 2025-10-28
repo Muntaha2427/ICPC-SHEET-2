@@ -21,4 +21,5 @@ int main()
     cout<<"Odd: "<<odd<<endl;
     cout<<"Positive: "<<pos<<endl;
     cout<<"Negative: "<<neg<<endl;
+    return 0;
 }
