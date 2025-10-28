@@ -14,4 +14,5 @@ int main()
         else
             cout<<"Wrong"<<endl;
     }
+    return 0;
 }
