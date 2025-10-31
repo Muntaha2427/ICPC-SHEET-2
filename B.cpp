@@ -4,10 +4,10 @@ int main()
 {
     long long N;
     cin>>N;
-    for(int i=1; i<=N;i++)
+    for(int i=1; i<=N; i++)
     {
         if(i%2==0)
-        cout<<i<<endl;
+            cout<<i<<endl;
         else if (N==1)
             cout<<"-1"<<endl;
     }
